@@ -1,3 +1,3 @@
 <?php
-echo("this is just a test");
+echo("this is just a test of webhook");
 ?>
